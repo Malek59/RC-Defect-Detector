@@ -1,0 +1,78 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Compiled files
+*.so
+*.out
+*.o
+
+# Log files
+*.log
+
+# SQLite database files
+*.sqlite3
+
+# Environment variables file
+.env
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
+pip-wheel-metadata/
+
+# Matplotlib cache directory
+.mplstyle
+
+# Tkinter file selection history
+recently-used.xbel
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Images and other media files (optional, based on your project)
+*.ico
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Python testing files
+.tox/
+.pytest_cache/
+
+# Coverage files
+.coverage
+coverage.xml
+*.cover
+
+
