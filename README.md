@@ -1,6 +1,6 @@
 # RC-Defect-Detector
 
-RemoteCheck is a Python-based tool that analyzes remote control signal data from an Excel file to determine if a remote is functioning properly or defective.
+RemoteCheck is a Python-based tool that analyzes remote control signal data from files to determine if a remote is functioning properly or defective.
 
 ## Features
 - Reads remote control data from an Excel file.
